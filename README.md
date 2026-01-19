@@ -109,9 +109,11 @@ and believe in <b>learning by building real-world applications</b>.
 **Tech Used:**  
 `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `JPA` `Docker` `Swagger`
 
-🔗 **Repository:** _Coming soon_  
+🔗 **Repository:** [Fitness Tracker Backend](https://github.com/varun01dev/Fitness-Tracking-Application)
 
-> ✔ Entire codebase written & explainable line-by-line
+<a href="https://github.com/varun01dev/REPO_NAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github"/>
+</a>
 
 ---
 
@@ -131,7 +133,7 @@ and believe in <b>learning by building real-world applications</b>.
 - 🧑‍💻 GitHub: https://github.com/varun01dev  
 
 <p align="center">
-  <i>Open to Java Backend opportunities — happy to discuss secure backend systems.</i>
+  <i>Open to Software Engineering Roles.</i>
 </p>
 
 <!-- ================= FOOTER ================= -->
