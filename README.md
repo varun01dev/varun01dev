@@ -5,7 +5,7 @@
 </p>
 <!-- ================= INTRO ================= -->
 <h3 align="center">
-🚀 Java Backend Developer | Secure APIs • Production-Ready Systems
+Java Backend Developer | Secure APIs • Production-Ready Systems
 </h3>
 
 <p align="center">
@@ -26,19 +26,19 @@ and believe in <b>learning by building real-world applications</b>.
 ---
 
 <!-- ================= ABOUT ================= -->
-### 👨‍💻 About Me
-- 🔹 **Backend-focused & production-minded Java developer**
-- 🔐 Strong interest in **Authentication & Authorization (JWT, Spring Security)**
-- 🧠 Write **clean, explainable, maintainable code**
-- 🚀 Comfortable building **end-to-end backend systems**
-- 📌 Actively open to **Java Backend / Software Engineer roles**
+###  About Me
+-  **Backend-focused & production-minded Java developer**
+-  Strong interest in **Authentication & Authorization (JWT, Spring Security)**
+-  Write **clean, explainable, maintainable code**
+-  Comfortable building **end-to-end backend systems**
+-  Actively open to **Java Backend / Software Engineer roles**
 
 > _“I don’t just make things work — I make them secure and production-ready.”_
 
 ---
 
 <!-- ================= TECH STACK ================= -->
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -95,21 +95,21 @@ and believe in <b>learning by building real-world applications</b>.
 <img align="right" alt="Backend Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- ================= PROJECTS ================= -->
-### 🚀 Featured Project
+###  Featured Project
 
-#### 🏋️ Fitness Tracker Backend Application
+####  Fitness Tracker Backend Application
 **Secure, production-style REST API built with Spring Boot**
 
-- 🔐 JWT-based Authentication & Role-Based Authorization  
-- 🧩 Clean REST API design with DTOs & validation  
-- 🗄️ MySQL database with JPA & Hibernate  
-- 📄 Swagger / OpenAPI documentation  
-- 🐳 Dockerized & deployed to cloud  
+-  JWT-based Authentication & Role-Based Authorization  
+-  Clean REST API design with DTOs & validation  
+-  MySQL database with JPA & Hibernate  
+-  Swagger / OpenAPI documentation  
+-  Dockerized & deployed to cloud  
 
 **Tech Used:**  
 `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `JPA` `Docker` `Swagger`
 
-🔗 **Repository:** [Fitness Tracker Backend](https://github.com/varun01dev/Fitness-Tracking-Application)
+ **Repository:** [Fitness Tracker Backend](https://github.com/varun01dev/Fitness-Tracking-Application)
 
 <a href="https://github.com/varun01dev/REPO_NAME" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github"/>
@@ -118,7 +118,7 @@ and believe in <b>learning by building real-world applications</b>.
 ---
 
 <!-- ================= LEARNING ================= -->
-### 📚 Currently Improving
+###  Currently Improving
 - Backend system design fundamentals  
 - Spring Security internals  
 - API scalability & best practices  
@@ -127,10 +127,10 @@ and believe in <b>learning by building real-world applications</b>.
 ---
 
 <!-- ================= CTA ================= -->
-### 🤝 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/varun-math/ 
-- 📧 Email: varun.math01@gmail.com
-- 🧑‍💻 GitHub: https://github.com/varun01dev  
+###  Let’s Connect
+-  LinkedIn: https://www.linkedin.com/in/varun-math/ 
+-  Email: varun.math01@gmail.com
+-  GitHub: https://github.com/varun01dev  
 
 <p align="center">
   <i>Open to Software Engineering Roles.</i>
